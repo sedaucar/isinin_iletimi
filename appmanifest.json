@@ -1,0 +1,11 @@
+{
+	"name": "isinin_iletimi",
+	"short_name": "isinin_iletimi",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [],
+	"screenshots": []
+}
