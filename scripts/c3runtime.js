@@ -4385,13 +4385,13 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Exps.random,
 		C3.Plugins.Arr.Exps.IndexOf,
 		C3.Plugins.Arr.Acts.Push,
-		C3.Plugins.Arr.Acts.Pop,
 		C3.Plugins.Arr.Exps.Back,
 		C3.Plugins.Text.Acts.SetText,
 		C3.Plugins.System.Exps.mid,
 		C3.Plugins.System.Cnds.CompareBoolVar,
 		C3.Plugins.System.Exps.int,
 		C3.Plugins.System.Acts.AddVar,
+		C3.Plugins.Arr.Acts.Pop,
 		C3.Plugins.System.Acts.Wait,
 		C3.Plugins.System.Cnds.CompareVar
 	];
